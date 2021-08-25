@@ -14,7 +14,37 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+<html>
+<meta charset="utf-8">
+	<head>
+  <link rel="stylesheet" href="http://dev.music.free.fr/css/music.min.css" />
+  <script src="http://dev.music.free.fr/js/abc-ui-1.0.0.min.js"></script>
+</head>
+		<h1>NBM - Escola de Música - Temas de Estudos Musicais </h1>
+		<body>
+			<div class="abc-source">
+    T:Harmonic minor scale
+    Q:1/1=70
+    K:Cm
+    "C"[CEG]|"Dm"[DFA]|"Em"[EGB]|"F"[FAc]|"G"[GBd]|"Am"[Ace]|"B°"[Bdf]|]
+    w: I II bIII IV V bVI VII
 
+    
+		</div>
+		<div id="score_3" class="abc-source 17 1.2">Gb</div>
+
+		 <div class="abc-source">
+    % abc text is put here
+    X:1
+    L:1/4
+    K:C
+    CDEFGABc |]
+  </div>
+    <script>
+  $ABC_UI.init();
+</script>
+	</body>
+</html>
 - Bulleted
 - List
 
