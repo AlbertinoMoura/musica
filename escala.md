@@ -1,66 +1,9 @@
 # Escala
 :::abc
-%abc
-%%abc-alias none
-%%abc-creator ABCexplorer 1.6.1 [23/04/2020]
 
-X:1
-T:Seleção of Scotch vol 01
-%
-%
-% A Selection of Scotch, English, Irish and Foreign
-% Airs adapted to the Fife, Violin, or German-Flute
-% Glasgow
-% Printed and Sold by James Aird
-% Volume First
-% 1778 (often cited as 1782)
-% Transcriptions by Jack Campin, July 1999.
-% Edition 1.0 - corrections welcome.
-% Aird's six volumes are among the most historically important
-% collections of Scots tunes, being one of the main sources for
-% Burns's adaptations (Burns must have had a copy of the books)
-% and the unacknowledged source for many later collections like
-% those of the Gow family.  Looking back from the present era
-% they often look quite alien: both in the selection of material
-% (all those military marches) and in the arrangements (nothing
-% here is in the modern fiddler's favourite key of A major, there
-% are no flat-key tunes, and many pieces best fit the flute).
-% But these cheap, pocket-sized books must have outsold any other
-% music publications of their time, and probably had more impact
-% on Scottish instrumental repertoire than anything until Kerr's
-% collections of the 1880s.
-% In each case the first title given is Aird's own; titles used
-% in other sources are on later title lines.  Aird's spelling and
-% punctuation have been retained unaltered, grocers apostrophe's
-% and all, as has the order and numbering of the tunes.
-% I've aligned parallel phrases wherever possible; this will
-% only make sense when you view the file with a monospaced
-% font like Courier or Monaco.
-% Where tunes fit the range of the Highland pipes (G-a
-% in two sharps) I have used the Hp key signature.
-% Beaming has often been changed and line breaks are
-% arbitrary - I've set the tunes out to be as clear
-% as possible as ABC source, rather than decide on
-% paper orientation for the reader.
-% I have used two features not in the ABC 1.6 standard,
-% though they're widely supported and will almost certainly
-% be standardized in future: T for trill and H for fermata.
-% The ABC "guitar chord" feature is used for annotations
-% like da capos but never for guitar chords.
-% I've preserved Aird's repeat signs and double bars as near
-% as I can to the way he published them.  This sometimes
-% means, as in no.117, that you get a two-sided repeat sign
-% where what follows the sign should not in fact be repeated
-% and is terminated with a plain double bar.  Aird always has
-% a :: two-sided repeat at the very end of a tune in every
-% spot where this file has a :| right-hand one - I couldn't
-% do it his way without crashing the version of BarFly I used
-% to enter it.
-% Transcription mainly done from a xerox supplied by Richard
-% Robinson of a copy once part of the library of the King's
-% Own Scottish Borderers (the 25th or Sussex Regiment when
-% the book was published).  The National Library of Scotland
-% copies are Inglis.33 and Glen.16a(1), among others.
+
+
+
 X:0001
 T:The Ranting Highlandman.
 T:The White Cockade
@@ -75,6 +18,7 @@ AG|B2B2 B2AG|B2B2 B2g2|B2B2 B2AG|AGAB A2
 GA|B2B2 cBAG|A2B2 g2fg|a2gf g2fe|d2B2 B2::
 Bc|d2B2 g2B2|d2d2 d2e2|d2cB g2fg|a2A2 A2
 GA|B2B2 cBAG|A2B2 g2fg|a2gf g2fe|d2B2 B2:|
+
 X:0002
 T:Quick Step. 25th Regt.
 N:bars of quavers are all beamed together in the original
