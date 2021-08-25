@@ -1,0 +1,4 @@
+<script src="http://dev.music.free.fr/js/abc-ui-1.0.0.min.js"></script>
+<script>
+  $ABC_UI.init();
+</script>
