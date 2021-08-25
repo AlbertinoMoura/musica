@@ -14,10 +14,8 @@ I: :: ::
 %% G A B c d e ^f g a
 Z:Jack Campin * www.campin.me.uk * 2009
 K:G
-AG|B2B2 B2AG|B2B2 B2g2|B2B2 B2AG|AGAB A2
-GA|B2B2 cBAG|A2B2 g2fg|a2gf g2fe|d2B2 B2::
-Bc|d2B2 g2B2|d2d2 d2e2|d2cB g2fg|a2A2 A2
-GA|B2B2 cBAG|A2B2 g2fg|a2gf g2fe|d2B2 B2:|
+AG|B2B2 B2AG|B2B2 B2g2|B2B2 B2AG|AGAB A2 GA|B2B2 cBAG|A2B2 g2fg|a2gf g2fe|d2B2 B2::
+Bc|d2B2 g2B2|d2d2 d2e2|d2cB g2fg|a2A2 A2 GA|B2B2 cBAG|A2B2 g2fg|a2gf g2fe|d2B2 B2:|
 
 X:0002
 T:Quick Step. 25th Regt.
